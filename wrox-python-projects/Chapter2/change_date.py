@@ -1,4 +1,6 @@
-import csv, datetime
+
+import csv
+from datetime import datetime
 
 def convertDate(item):
     theDate = item[-1]
